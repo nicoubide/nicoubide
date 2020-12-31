@@ -2,9 +2,11 @@
 
 
 
-
-
 ### Hi there 👋
+
+[![Nico's github stats](https://github-readme-stats.vercel.app/api?username=nicoubide)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **nicoubide/nicoubide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
