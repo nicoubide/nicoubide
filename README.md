@@ -4,7 +4,9 @@
 
 ### Hi there 👋
 
-[![Nico's github stats](https://github-readme-stats.vercel.app/api?username=nicoubide)](https://github.com/anuraghazra/github-readme-stats)
+[![Nico's github stats](https://github-readme-stats.vercel.app/api?username=nicoubide&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicoubide&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
