@@ -43,10 +43,13 @@ I’m Nico Ubide. I’m an aspiring data scientist currently in the process of f
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
 
-[1]: http://www.twitter.com/carlsednaoui
-[2]: http://www.facebook.com/sednaoui
+[1]: https://www.linkedin.com/in/nico-ubide-762b83177/
+[2]: mailto:nicoubide@gmail.com
+
+<!--
 [3]: https://plus.google.com/+CarlSednaoui
 [4]: http://carlsed.tumblr.com
 [5]: http://dribbble.com/carlsednaoui
 [6]: http://www.github.com/carlsednaoui
+-->
 
