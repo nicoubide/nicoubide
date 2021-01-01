@@ -13,8 +13,8 @@ I’m Nico Ubide. I’m an aspiring data scientist currently in the process of f
 
 <!-- display the social media buttons in your README -->
 
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
+[![alt text][1.1]][1] &nbsp;&nbsp;&nbsp;
+[![alt text][2.1]][2] &nbsp;&nbsp;&nbsp;
 [![alt text][3.1]][3]
 
 <!--
